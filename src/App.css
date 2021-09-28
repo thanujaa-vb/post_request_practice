@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.details{
+  margin-top: 40px;
+}
+pre{
+  font-weight: bold;
+}
+input{
+  margin-left: 10px;
+  width: 200px;
+  height: 20px;
+}
+.getButton{
+  margin-top: 20px;
+}
